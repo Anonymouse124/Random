@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("raw.githubusercontent.com/Anonymouse124/Random/Random.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Anonymouse124/Random/Random.lua", true))()
